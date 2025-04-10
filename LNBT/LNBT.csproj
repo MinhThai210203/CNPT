@@ -140,6 +140,12 @@
     <Compile Include="theodoidonhang.Designer.cs">
       <DependentUpon>theodoidonhang.cs</DependentUpon>
     </Compile>
+    <Compile Include="tichdiemvasudungmagiamgia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tichdiemvasudungmagiamgia.Designer.cs">
+      <DependentUpon>tichdiemvasudungmagiamgia.cs</DependentUpon>
+    </Compile>
     <Compile Include="Util\PasswordUtil.cs" />
     <Compile Include="ViewModel\ChiTietDonHang.cs" />
     <Compile Include="ViewModel\HoaDonViewModel.cs" />
@@ -211,6 +217,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="theodoidonhang.resx">
       <DependentUpon>theodoidonhang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tichdiemvasudungmagiamgia.resx">
+      <DependentUpon>tichdiemvasudungmagiamgia.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="xacnhandonhang.resx">
       <DependentUpon>xacnhandonhang.cs</DependentUpon>
