@@ -128,6 +128,12 @@
     <Compile Include="theodoidonhang.Designer.cs">
       <DependentUpon>theodoidonhang.cs</DependentUpon>
     </Compile>
+    <Compile Include="Tạo hóa đơn nhanh từ đơn gọi tại quầy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tạo hóa đơn nhanh từ đơn gọi tại quầy.Designer.cs">
+      <DependentUpon>Tạo hóa đơn nhanh từ đơn gọi tại quầy.cs</DependentUpon>
+    </Compile>
     <Compile Include="Util\PasswordUtil.cs" />
     <Compile Include="ViewModel\ChiTietDonHang.cs" />
     <Compile Include="ViewModel\HoaDonViewModel.cs" />
@@ -175,6 +181,9 @@
     </Compile>
     <EmbeddedResource Include="theodoidonhang.resx">
       <DependentUpon>theodoidonhang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tạo hóa đơn nhanh từ đơn gọi tại quầy.resx">
+      <DependentUpon>Tạo hóa đơn nhanh từ đơn gọi tại quầy.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
