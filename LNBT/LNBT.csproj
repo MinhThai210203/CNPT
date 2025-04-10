@@ -128,6 +128,12 @@
     <Compile Include="Model\TKNhanVien.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="quanlymenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="quanlymenu.Designer.cs">
+      <DependentUpon>quanlymenu.cs</DependentUpon>
+    </Compile>
     <Compile Include="theodoidonhang.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -148,6 +154,18 @@
     </Compile>
     <Compile Include="xacnhandonhang.Designer.cs">
       <DependentUpon>xacnhandonhang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Xacnhanhoanthanhdon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Xacnhanhoanthanhdon.Designer.cs">
+      <DependentUpon>Xacnhanhoanthanhdon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="xemdongiaohang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="xemdongiaohang.Designer.cs">
+      <DependentUpon>xemdongiaohang.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Dangky.resx">
       <DependentUpon>Dangky.cs</DependentUpon>
@@ -188,11 +206,20 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="quanlymenu.resx">
+      <DependentUpon>quanlymenu.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="theodoidonhang.resx">
       <DependentUpon>theodoidonhang.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="xacnhandonhang.resx">
       <DependentUpon>xacnhandonhang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Xacnhanhoanthanhdon.resx">
+      <DependentUpon>Xacnhanhoanthanhdon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xemdongiaohang.resx">
+      <DependentUpon>xemdongiaohang.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
