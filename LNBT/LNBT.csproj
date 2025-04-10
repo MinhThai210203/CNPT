@@ -149,6 +149,12 @@
     <Compile Include="Xacnhanhoanthanhdon.Designer.cs">
       <DependentUpon>Xacnhanhoanthanhdon.cs</DependentUpon>
     </Compile>
+    <Compile Include="xemdongiaohang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="xemdongiaohang.Designer.cs">
+      <DependentUpon>xemdongiaohang.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Dangky.resx">
       <DependentUpon>Dangky.cs</DependentUpon>
     </EmbeddedResource>
@@ -193,6 +199,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Xacnhanhoanthanhdon.resx">
       <DependentUpon>Xacnhanhoanthanhdon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xemdongiaohang.resx">
+      <DependentUpon>xemdongiaohang.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
