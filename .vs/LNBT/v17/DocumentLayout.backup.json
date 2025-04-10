@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Minh Thai\\source\\repos\\CNPT\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4B27F9A8-B25B-436A-A6BA-4DA4F41B093B}|LNBT\\LNBT.csproj|c:\\users\\minh thai\\source\\repos\\cnpt\\lnbt\\xemdongiaohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B27F9A8-B25B-436A-A6BA-4DA4F41B093B}|LNBT\\LNBT.csproj|solutionrelative:lnbt\\xemdongiaohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4B27F9A8-B25B-436A-A6BA-4DA4F41B093B}|LNBT\\LNBT.csproj|c:\\users\\minh thai\\source\\repos\\cnpt\\lnbt\\xacnhanhoanthanhdon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4B27F9A8-B25B-436A-A6BA-4DA4F41B093B}|LNBT\\LNBT.csproj|solutionrelative:lnbt\\xacnhanhoanthanhdon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -27,6 +31,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "xemdongiaohang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Minh Thai\\source\\repos\\CNPT\\LNBT\\xemdongiaohang.cs",
+              "RelativeDocumentMoniker": "LNBT\\xemdongiaohang.cs",
+              "ToolTip": "C:\\Users\\Minh Thai\\source\\repos\\CNPT\\LNBT\\xemdongiaohang.cs [Design]",
+              "RelativeToolTip": "LNBT\\xemdongiaohang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T15:30:36.711Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Xacnhanhoanthanhdon.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Minh Thai\\source\\repos\\CNPT\\LNBT\\Xacnhanhoanthanhdon.cs",
               "RelativeDocumentMoniker": "LNBT\\Xacnhanhoanthanhdon.cs",
@@ -38,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "xacnhandonhang.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Minh Thai\\source\\repos\\CNPT\\LNBT\\xacnhandonhang.cs",
               "RelativeDocumentMoniker": "LNBT\\xacnhandonhang.cs",
