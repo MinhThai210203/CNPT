@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\ELITEBOOK 804 G2\\Documents\\cnpm\\CNPT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B27F9A8-B25B-436A-A6BA-4DA4F41B093B}|LNBT\\LNBT.csproj|c:\\users\\elitebook 804 g2\\documents\\cnpm\\cnpt\\lnbt\\tichdiemvasudungmagiamgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4B27F9A8-B25B-436A-A6BA-4DA4F41B093B}|LNBT\\LNBT.csproj|c:\\users\\elitebook 804 g2\\documents\\cnpm\\cnpt\\lnbt\\quanlydonhangdangxuly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B27F9A8-B25B-436A-A6BA-4DA4F41B093B}|LNBT\\LNBT.csproj|solutionrelative:lnbt\\quanlydonhangdangxuly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27F9A8-B25B-436A-A6BA-4DA4F41B093B}|LNBT\\LNBT.csproj|C:\\Users\\ELITEBOOK 804 G2\\Documents\\cnpm\\CNPT\\lnbt\\tichdiemvasudungmagiamgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4B27F9A8-B25B-436A-A6BA-4DA4F41B093B}|LNBT\\LNBT.csproj|solutionrelative:lnbt\\tichdiemvasudungmagiamgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -23,18 +27,29 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "quanlydonhangdangxuly.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ELITEBOOK 804 G2\\Documents\\cnpm\\CNPT\\LNBT\\quanlydonhangdangxuly.cs",
+              "RelativeDocumentMoniker": "LNBT\\quanlydonhangdangxuly.cs",
+              "ToolTip": "C:\\Users\\ELITEBOOK 804 G2\\Documents\\cnpm\\CNPT\\LNBT\\quanlydonhangdangxuly.cs [Design]",
+              "RelativeToolTip": "LNBT\\quanlydonhangdangxuly.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:17:04.206Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "tichdiemvasudungmagiamgia.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ELITEBOOK 804 G2\\Documents\\cnpm\\CNPT\\LNBT\\tichdiemvasudungmagiamgia.cs",
               "RelativeDocumentMoniker": "LNBT\\tichdiemvasudungmagiamgia.cs",
               "ToolTip": "C:\\Users\\ELITEBOOK 804 G2\\Documents\\cnpm\\CNPT\\LNBT\\tichdiemvasudungmagiamgia.cs [Design]",
               "RelativeToolTip": "LNBT\\tichdiemvasudungmagiamgia.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T16:24:19.873Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-10T16:24:19.873Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "luuymonthich.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ELITEBOOK 804 G2\\Documents\\cnpm\\CNPT\\LNBT\\luuymonthich.cs",
               "RelativeDocumentMoniker": "LNBT\\luuymonthich.cs",
