@@ -1,0 +1,2 @@
+#mấy thằng gà
+# CNPT
