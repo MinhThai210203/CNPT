@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Minh Thai\\Desktop\\New folder\\DOAN CNPT\\",
+  "WorkspaceRootPath": "C:\\Users\\Minh Thai\\source\\repos\\CNPT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B27F9A8-B25B-436A-A6BA-4DA4F41B093B}|LNBT\\LNBT.csproj|c:\\users\\minh thai\\desktop\\new folder\\doan cnpt\\lnbt\\xacnhandonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4B27F9A8-B25B-436A-A6BA-4DA4F41B093B}|LNBT\\LNBT.csproj|c:\\users\\minh thai\\source\\repos\\cnpt\\lnbt\\xacnhanhoanthanhdon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B27F9A8-B25B-436A-A6BA-4DA4F41B093B}|LNBT\\LNBT.csproj|solutionrelative:lnbt\\xacnhanhoanthanhdon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27F9A8-B25B-436A-A6BA-4DA4F41B093B}|LNBT\\LNBT.csproj|C:\\Users\\Minh Thai\\source\\repos\\CNPT\\lnbt\\xacnhandonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4B27F9A8-B25B-436A-A6BA-4DA4F41B093B}|LNBT\\LNBT.csproj|solutionrelative:lnbt\\xacnhandonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -23,14 +27,33 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Xacnhanhoanthanhdon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Minh Thai\\source\\repos\\CNPT\\LNBT\\Xacnhanhoanthanhdon.cs",
+              "RelativeDocumentMoniker": "LNBT\\Xacnhanhoanthanhdon.cs",
+              "ToolTip": "C:\\Users\\Minh Thai\\source\\repos\\CNPT\\LNBT\\Xacnhanhoanthanhdon.cs [Design]",
+              "RelativeToolTip": "LNBT\\Xacnhanhoanthanhdon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T15:11:01.021Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "xacnhandonhang.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Minh Thai\\Desktop\\New folder\\DOAN CNPT\\LNBT\\xacnhandonhang.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Thai\\source\\repos\\CNPT\\LNBT\\xacnhandonhang.cs",
               "RelativeDocumentMoniker": "LNBT\\xacnhandonhang.cs",
-              "ToolTip": "C:\\Users\\Minh Thai\\Desktop\\New folder\\DOAN CNPT\\LNBT\\xacnhandonhang.cs [Design]",
+              "ToolTip": "C:\\Users\\Minh Thai\\source\\repos\\CNPT\\LNBT\\xacnhandonhang.cs [Design]",
               "RelativeToolTip": "LNBT\\xacnhandonhang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T14:31:01.777Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-10T14:31:01.777Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
